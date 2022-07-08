@@ -34,7 +34,6 @@ from Musikku.utils.inline.play import (livestream_markup,
 from Musikku.utils.inline.playlist import botplaylist_markup
 from Musikku.utils.logger import play_logs
 from Musikku.utils.stream.stream import stream
-from Musikku.utils.sub import ken
 
 
 # Command
