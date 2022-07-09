@@ -47,7 +47,7 @@ from Musikku.utils.thumbnails import gen_thumb
 
 autoend = {}
 counter = {}
-AUTO_END_TIME = 3
+AUTO_END_TIME = 2
 
 
 async def _clear_(chat_id):
